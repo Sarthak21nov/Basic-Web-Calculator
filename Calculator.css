@@ -1,0 +1,41 @@
+.calculator{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    height: 735px;
+    width: 294px;
+    flex-wrap: wrap;
+}
+#textarea{
+    height: 80px;
+    width: 294px;
+    font-size: 50px;
+    text-align: left;
+}
+.row1{
+    height: 130px;
+    width: 395px;
+
+}
+.row2{
+    height: 130px;
+    width: 395px;
+}
+.row3{
+    height: 130px;
+    width: 395px;
+
+}
+.row4{
+    height: 130px;
+    width: 395px;
+
+}
+.button{
+    height: 130px;
+    width: 98px;
+}
+/* Height left: 520px
+   height of each row: 130px 
+   Total Width: 395px
+   Width for each button: 98px*/
